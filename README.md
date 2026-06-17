@@ -85,6 +85,33 @@ The project includes:
 - Distribution Plots
 
 ---
+Result and Analysis
+
+The student performance data was successfully processed using Python.
+Average marks for each student were calculated from Maths, Science, and English.
+A new column “Average” was added to the dataset.
+The system identified the top performer based on the highest average marks.
+A colorful bar chart was generated to visualize student performance clearly.
+
+Final Result:
+
+Top Performer: Divya
+Highest Average Marks: 91.00 
+
+Analysis:
+
+Divya performed the best among all students with the highest average score.
+Priya secured the second position with a strong performance.
+Arun showed a consistent average performance.
+Kavin and Rahul scored comparatively lower and need improvement.
+The bar chart helps to easily compare all students’ performance.
+This system makes it simple to analyze academic performance quickly and effectively.
+
+
+<img width="593" height="346" alt="chart " src="https://github.com/user-attachments/assets/95675f91-c501-494f-8460-97f1ade42d66" />
+
+
+
 
 ## 📈 Expected Outcomes
 
